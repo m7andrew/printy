@@ -6,4 +6,4 @@
   :repo "git+https://github.com/m7andrew/printy")
 
 (declare-source
-  :source ["printy"])
+  :source ["printy.janet"])
