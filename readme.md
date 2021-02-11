@@ -1,4 +1,6 @@
 
+# Printy
+
 When [pretty print](https://janetdocs.com/pp) is not enough. Printy is a small [Janet](https://janet-lang.org/) library for styling terminal output and printing data structures.
 
 ## Install
