@@ -1,5 +1,5 @@
 
-When [pretty print](https://janetdocs.com/pp) is not enough. Printy is a small [Janet](https://janet-lang.org/) library for styling terminal output, and printing data structures.
+When [pretty print](https://janetdocs.com/pp) is not enough. Printy is a small [Janet](https://janet-lang.org/) library for styling terminal output and printing data structures.
 
 ## Install
 
@@ -74,4 +74,4 @@ Color    | Background Color | Effects
 (pcoll ds)
 ```
 
-Prints a data structure `ds` in YAML style format.
+Prints a data structure `ds` in a YAML style format.
